@@ -1,4 +1,4 @@
-# BIG COMPANY - Employee Structure Analyzer
+# Employee Structure Analyzer
 
 This Java 11 program analyzes employee data from a CSV file and reports:
 
